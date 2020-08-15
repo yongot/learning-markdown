@@ -1,4 +1,4 @@
-#Ordered Lists
+# Ordered Lists
 
 Create a numbered lists and automatically format the space between the number, period, and text accordingly
 

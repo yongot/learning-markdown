@@ -1,4 +1,4 @@
-#Adding Inline Images
+# Adding Inline Images
 
 To create an inline image link, enter the exclamation point ( ! ), and follow the format of inline link.
 

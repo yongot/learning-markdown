@@ -1,4 +1,4 @@
-#Add Horinzontal Line
+# Add Horinzontal Line
 
 Use three dashes ( --- ) to add horizontal line
 

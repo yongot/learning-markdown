@@ -1,4 +1,4 @@
-#Footnotes
+# Footnotes
 
 Type the following marker at the end of the sentense: ([^1]) to use that as a footnotes
 

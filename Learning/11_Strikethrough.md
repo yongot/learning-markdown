@@ -1,4 +1,4 @@
-#Strikethrough
+# Strikethrough
 
 Add two tildes on both sides (~~strikethrough~~)
 
